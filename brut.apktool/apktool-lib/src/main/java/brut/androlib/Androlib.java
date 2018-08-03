@@ -787,6 +787,6 @@ public class Androlib {
     private final static String[] APK_MANIFEST_FILENAMES = new String[] {
             "AndroidManifest.xml" };
     private final static String[] APK_STANDARD_ALL_FILENAMES = new String[] {
-            "classes.dex", "AndroidManifest.xml", "resources.arsc", "res", "r", "R",
+            "classes.dex", "AndroidManifest.xml", "resources.arsc", "res", /*"r", "R",*/
             "lib", "libs", "assets", "META-INF", "kotlin" };
 }
